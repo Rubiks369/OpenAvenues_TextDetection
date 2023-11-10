@@ -1,7 +1,3 @@
-Certainly! Below is a basic ReadMe file for your text detection program. Please feel free to modify or expand upon it as needed.
-
----
-
 # Text Detection Program
 
 ## Overview
