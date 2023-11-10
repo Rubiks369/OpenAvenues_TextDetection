@@ -79,10 +79,3 @@ This program utilizes TensorFlow to perform text detection in images. It is base
 
 - The text detection model is based on the EAST (Efficient and Accurate Scene Text) model.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to update the paths, add more details, or customize it based on your specific requirements and usage instructions.
